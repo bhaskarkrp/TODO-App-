@@ -1,0 +1,36 @@
+.margin{
+    margin: 20px auto;
+}
+
+input[type="text"]{
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1.5px solid lightgreen;
+    background-color: lightgreen;
+    border-radius: 5px;
+}
+
+.button{
+    font-size: 1rem;
+    padding: 0.6rem;
+    background-color: rgb(76, 76, 114);
+    color: white;
+    border: none;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+
+ol{
+    background-color: rgb(238, 234, 234);
+    padding: 1em;
+}
+
+.button2{
+    font-size: 1rem;
+    padding: 0.5rem;
+    background-color: rgb(76, 76, 114);
+    color: white;
+    border: none;
+    margin: 0 10px;
+    border-radius: 5px;
+}

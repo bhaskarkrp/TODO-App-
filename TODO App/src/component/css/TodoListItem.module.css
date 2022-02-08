@@ -1,0 +1,50 @@
+li{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    place-content: center;
+    place-items: center;
+    background-color: white;
+    margin: 10px 5px;
+    border-radius: 5px;
+
+}
+
+.normal{
+    text-decoration: none;
+}
+
+.line{
+    text-decoration: line-through;
+}
+.completed{
+    background-color: green;
+    padding: 0.5em;
+    border-radius: 5px;
+}
+.pending{
+    background-color: red;
+    padding: 0.5em;
+    border-radius: 5px;
+
+}
+.button2{
+    font-size: 1rem;
+    padding: 0.5rem;
+    background-color: rgb(76, 76, 114);
+    color: white;
+    border: none;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+
+.button_img{
+    /* font-size: 1rem; */
+    /* padding: 0.5rem; */
+    height: 1.5em;
+    width: 1.5em;  
+    background-color: rgb(76, 76, 114);
+    color: white;
+    border: none;
+    margin: 0 10px;
+    border-radius: 5px;
+}
